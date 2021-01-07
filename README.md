@@ -1,7 +1,5 @@
 # user
 
-# add_user
-
 # rapport
 
     -- Création d’un compte utilisateurs perso : adduser ialy
